@@ -1,0 +1,5 @@
+# ninja log v6
+42	262	7493692390903756	CMakeFiles/Assignment1.dir/main.c.obj	9d35c6ca3acbc61f
+8	172	7493702980472446	CMakeFiles/Assignment1.dir/a1.c.obj	6b96639ae960cbca
+16	716	7496836565625384	build.ninja	95dd47f4ed77d013
+173	342	7493702982117592	Assignment1.exe	d4054e4bee882624
